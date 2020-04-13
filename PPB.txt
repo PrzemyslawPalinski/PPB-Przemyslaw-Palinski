@@ -1,0 +1,7 @@
+Sklep internetowy
+
+Zakres
+Logowanie, Rejestracja, Wyświetlanie produktów, Kupowanie produktów, Podgląd zakupów.
+
+Technologia
+ASPNET Core
