@@ -1,0 +1,7 @@
+Blog tematyczny
+
+Zakres
+Logowanie, Rejestracja, Wyświetlanie danych użytkowników, Edycja danych użytkowników, Dodawanie postów, Podgląd testów.
+
+Technologia
+ASPNET Core
