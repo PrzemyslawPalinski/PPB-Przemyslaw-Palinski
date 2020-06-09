@@ -1,0 +1,52 @@
+[
+    {
+        "Username": "Kris",
+        "Password": "password",
+        "KnownAs": "Kris"
+    },
+    {
+        "Username": "Genevieve",
+        "Password": "password",
+        "KnownAs": "Genevieve"
+    },
+    {
+        "Username": "Hazel",
+        "Password": "password",
+        "KnownAs": "Hazel"
+    },
+    {
+        "Username": "Molly",
+        "Password": "password",
+        "KnownAs": "Molly"
+    },
+    {
+        "Username": "Luz",
+        "Password": "password",
+        "KnownAs": "Luz"
+    },
+    {
+        "Username": "Gregory",
+        "Password": "password",
+        "KnownAs": "Gregory"
+    },
+    {
+        "Username": "Key",
+        "Password": "password",
+        "KnownAs": "Key"
+    },
+    {
+        "Username": "Foley",
+        "Password": "password",
+        "KnownAs": "Foley"
+    },
+    {
+        "Username": "Shepherd",
+        "Password": "password",
+        "KnownAs": "Shepherd"
+    },
+    {
+        "Username": "Small",
+        "Password": "password",
+        "KnownAs": "Small"
+    }
+]
